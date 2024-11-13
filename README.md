@@ -57,6 +57,15 @@ I enjoy meeting new people and engaging in interesting conversations, so feel fr
 <h1 align="center">Some of my Projects! 🎨</h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrachtmanLior&repo=Computer-Networking-Ex3&show_owner=true)](https://github.com/TrachtmanLior/Computer-Networking-Ex3)
+
+<p align="left">
+  Recent academic assignments, organized by course:
+  <li><a href="https://github.com/stars/TrachtmanLior/lists/operating-systems-course">Operating Systems Course (C & C++)</a></li>
+  <li><a href="https://github.com/stars/TrachtmanLior/lists/systems-programming-course">Systems Programming Courses (C & C++)</a></li>
+  <li><a href="https://github.com/stars/TrachtmanLior/lists/oop-course">Object Oriented Programming Course (Java & Python)</a></li>
+  <li><a href="https://github.com/stars/TrachtmanLior/lists/computer-networking-course">Computer Networking (Communication) Course (Python and C)</a></li>
+</p>
+
   
 <div align="center">
 
