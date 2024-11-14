@@ -3,7 +3,7 @@
 </div>
 
 ## ❔ About Me
-I'm a 3rd year in Computer Science and work as a NOC & Technical Support Engineer at Global-e. I also have experience as a Communication Technician in Air-Defense, where I gained skills in networking, collaboration, and monitoring systems.
+I'm a 3rd year in Computer Science and work as a NOC & Technical Support Engineer at Global-e. I also have experience as a System Administrator in Air-Defense, where I gained skills in networking, collaboration, and monitoring systems.
 
 - 🌐 Currently expanding my expertise in networking and logging technologies.
 - 🧩 Passionate about problem-solving, creativity, and quick learning.
