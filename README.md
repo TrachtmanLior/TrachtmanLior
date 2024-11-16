@@ -56,7 +56,10 @@ I enjoy meeting new people and engaging in interesting conversations, so feel fr
 
 <h1 align="center">Some of my Projects! 🎨</h1>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrachtmanLior&repo=QUIC-Protocol-Networking-Final-project&show_owner=true)](https://github.com/TrachtmanLior/QUIC-Protocol-Networking-Final-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrachtmanLior&repo=Operating-Systems-Final-Project&show_owner=true)](https://github.com/TrachtmanLior/Operating-Systems-Final-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrachtmanLior&repo=Computer-Networking-Ex3&show_owner=true)](https://github.com/TrachtmanLior/Computer-Networking-Ex3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrachtmanLior&repo=Custom-Netcat-OS-Project&show_owner=true)](https://github.com/TrachtmanLior/Custom-Netcat-OS-Project)
 
 <p align="left">
   Recent academic assignments, organized by course:
