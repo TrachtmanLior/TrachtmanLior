@@ -22,10 +22,6 @@ I enjoy meeting new people and engaging in interesting conversations, so feel fr
   <a href="mailto:lior.trachtman@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/lior.trachtman@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.github.com/TrachtmanLior" target="blank">
-    <img align="center" src="https://img.shields.io/badge/TrachtmanLior-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 <h1 align="center">⌨️ Languages</h1>
